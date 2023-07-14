@@ -1,8 +1,7 @@
 # Steven N. Duarte C. <img src="https://logos-world.net/wp-content/uploads/2020/12/Bad-Bunny-Emblem-700x394.png" alt="Bad Bunny Emblem" width="100">
 
 
-### Software Developer | CEO: SDC Technology | CEO: SDC-Developer
-<img src="logo.svg" alt="Logo alternativo" width="100">
+### Software Developer | CEO: SDC Technology | CEO: SDC-Developer <img src="logo.svg" alt="Logo alternativo" width="100">
 
 
 ¡Hola! Soy Steven N. Duarte C., un apasionado Software Developer y CEO de SDC Technology y SDC-Developer. Me especializo en crear soluciones innovadoras y de alta calidad que impulsan el mundo tecnológico hacia adelante. A continuación, te presento algunos de los proyectos en los que estoy trabajando actualmente:
