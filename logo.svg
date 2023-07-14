@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1393.02 556.07">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #1d1d1b;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-6 {
+        fill: #022462;
+      }
+
+      .cls-2 {
+        font-family: Barber-Complete, Barber;
+        font-size: 246.15px;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #41c0f0;
+      }
+
+      .cls-3 {
+        stroke-width: 11px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #022462;
+      }
+
+      .cls-7 {
+        letter-spacing: .47em;
+      }
+
+      .cls-8 {
+        letter-spacing: .5em;
+      }
+
+      .cls-4 {
+        opacity: .43;
+        stroke-width: 39px;
+      }
+
+      .cls-5 {
+        fill: #064aab;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <g>
+        <polygon class="cls-5" points="698.5 483.43 513.9 381.93 512.48 176.53 695.65 72.64 880.24 174.15 881.67 379.54 698.5 483.43"/>
+        <polygon class="cls-3" points="698.96 549.77 454.74 415.48 452.85 143.75 695.19 6.3 939.41 140.59 941.29 412.33 698.96 549.77"/>
+        <polygon class="cls-4" points="698.72 511.08 489.32 395.93 487.71 162.94 695.48 45.1 904.88 160.24 906.5 393.23 698.72 511.08"/>
+      </g>
+      <g id="x">
+        <polygon class="cls-1" points="3.96 6.38 311.11 278.09 697.07 278.09 391.27 6.38 3.96 6.38"/>
+        <polygon class="cls-1" points="697.07 278.09 390.18 549.89 4.22 549.42 311.11 278.09 697.07 278.09"/>
+        <polygon class="cls-1" points="1389.06 6.33 1081.91 278.04 695.95 278.04 1001.75 6.33 1389.06 6.33"/>
+        <polygon class="cls-1" points="695.95 278.04 1002.85 549.84 1388.81 549.37 1081.91 278.04 695.95 278.04"/>
+      </g>
+      <g>
+        <polyline class="cls-6" points="249.77 202.98 373.13 362.33 672.03 270.06 584.89 250.63 247.13 202.98"/>
+        <path class="cls-6" d="m666.42,269.15c42.88,7.41,66.18,0,66.18,0l302.29-18.53,51.35,15.88-14.82,39.71-357.35-21.71-82.06-27.53"/>
+      </g>
+      <text class="cls-2" transform="translate(241.1 332.08) scale(1.03 1)"><tspan class="cls-8" x="0" y="0">SD</tspan><tspan class="cls-7" x="680.61" y="0">C</tspan></text>
+    </g>
+  </g>
+</svg>
