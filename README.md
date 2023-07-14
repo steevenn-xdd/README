@@ -2,6 +2,8 @@
 
 
 ### Software Developer | CEO: SDC Technology | CEO: SDC-Developer
+<img src="logo.svg" alt="Logo alternativo" width="100">
+
 
 ¡Hola! Soy Steven N. Duarte C., un apasionado Software Developer y CEO de SDC Technology y SDC-Developer. Me especializo en crear soluciones innovadoras y de alta calidad que impulsan el mundo tecnológico hacia adelante. A continuación, te presento algunos de los proyectos en los que estoy trabajando actualmente:
 
