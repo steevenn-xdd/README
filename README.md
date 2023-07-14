@@ -1,4 +1,4 @@
-# Steven N. Duarte C. <img src="https://logos-world.net/wp-content/uploads/2020/12/Bad-Bunny-Emblem-700x394.png" alt="Bad Bunny Emblem" width="200">
+# Steven N. Duarte C. <img src="https://logos-world.net/wp-content/uploads/2020/12/Bad-Bunny-Emblem-700x394.png" alt="Bad Bunny Emblem" width="100">
 
 
 ### Software Developer | CEO: SDC Technology | CEO: SDC-Developer
