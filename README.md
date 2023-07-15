@@ -19,6 +19,6 @@
 Si estás interesado en contratarme o tienes alguna consulta adicional, no dudes en contactarme:
 
 - Correo electrónico: [Steven0728lol@aol.com](mailto:Steven0728lol@aol.com)
-- Instagram: [@steevenn.xdd](https://www.instagram.com/steevenn.xdd/)
+- Instagram: [@steevenn.xd](https://www.instagram.com/steevenn.xd/)
 
 ¡Gracias por visitar mi perfil y explorar mis proyectos! Estoy emocionado por las oportunidades de colaboración y desarrollo tecnológico que puedan surgir. ¡Espero tener noticias tuyas pronto!
